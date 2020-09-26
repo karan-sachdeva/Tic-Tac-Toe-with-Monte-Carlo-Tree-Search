@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-with-Monte-Carlo-Tree-Search
-Implement a Tic-Tac-Toe playing program where a human can play against the computer, and the computer makes all its moves using random playouts as described below.
+A Tic-Tac-Toe playing program where a human can play against the computer, and the computer makes all its moves using random playouts as described below.
 
 The program does not use any information about Tic-Tac-Toe beyond the essential rules of how to play it, how to determine legal moves, and how to recognize if the game is a win, loss, or draw.
 
